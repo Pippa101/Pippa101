@@ -1,3 +1,1 @@
-
-- I’m starting NorthCoders in January
-- I’m currently learning Javascript
+- I’m currently learning Javascript, React, PostSQL, HTML, CSS 
