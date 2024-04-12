@@ -1,2 +1,5 @@
-- Current tech stack: Javascript, React, PostSQL, HTML, CSS, Python, MongoDB, Mongoose, Mapbox, Express.
-- Testing using Jest and SuperTest 
+Current tech stack: 
+- Javascript, React,TypeScript, Java, Python
+- PostSQL, DynamoDB, MongoDB
+- Express, Python Flask, SpringBoot
+- Jest, Junit, Pytest, Cypress 
